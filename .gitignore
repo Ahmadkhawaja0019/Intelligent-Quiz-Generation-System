@@ -2,3 +2,5 @@ venv/
 data/raw/
 models/
 __pycache__/
+data/processed/
+.claude/
